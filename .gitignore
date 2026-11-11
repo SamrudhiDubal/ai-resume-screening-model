@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+.env
+__pycache__/
+.ipynb_checkpoints/
+ml/outputs/
+*.joblib

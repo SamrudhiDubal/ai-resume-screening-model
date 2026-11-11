@@ -1,0 +1,362 @@
+[
+ {
+  "text": "Java Developer with 8 years of experience. Skills: maven, mongodb, git, regression testing, testng, jest, jpa, postman, rest api, tomcat. Experience: Wrote unit and integration tests for frontend components. Optimised hibernate queries to reduce database latency. Education: M.Tech. Strengths: time management, problem solving. Contact: candidate585@mail.com",
+  "clean": "java developer skills maven mongodb git regression testing testng jest jpa postman rest api tomcat wrote unit integration tests frontend components optimised hibernate queries reduce database latency education tech strengths time management problem solving contact",
+  "category": "Java Developer",
+  "confidence": 0.7086,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.0747,
+   "cosine": 0.0293,
+   "skill_match": 0.1429,
+   "matched_skills": [
+    "regression"
+   ],
+   "missing_skills": [
+    "jupyter",
+    "machine learning",
+    "matplotlib",
+    "nlp",
+    "pandas",
+    "sql"
+   ]
+  }
+ },
+ {
+  "text": "Frontend Developer with 3 years of experience. Skills: redux, mongodb, vite, html, tomcat. Experience: Performed api testing with postman and rest assured. Developed responsive single page applications in react. Improved page load time through code splitting and caching. Education: M.Tech. Strengths: attention to detail, team player. Contact: candidate298@mail.com",
+  "clean": "frontend developer skills redux mongodb vite html tomcat performed api testing postman rest assured developed responsive single page applications react improved page load time code splitting caching education tech strengths attention detail team player contact",
+  "category": "Web Development",
+  "confidence": 0.9585,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.0,
+   "cosine": 0.0,
+   "skill_match": 0.0,
+   "matched_skills": [],
+   "missing_skills": [
+    "jupyter",
+    "machine learning",
+    "matplotlib",
+    "nlp",
+    "pandas",
+    "regression",
+    "sql"
+   ]
+  }
+ },
+ {
+  "text": "Full Stack Developer with 12 years of experience. Skills: nlp, excel, uml, python, deep learning, machine learning, statistics, matplotlib, pandas. Experience: Gathered business requirements from stakeholders and wrote user stories. Designed a/b tests and reported statistical significance. Education: B.E. in Mechanical Engineering. Strengths: team player, problem solving. Contact: candidate371@mail.com",
+  "clean": "full stack developer skills nlp excel uml python deep learning machine learning statistics matplotlib pandas gathered business requirements stakeholders wrote user stories designed tests reported statistical significance education mechanical engineering strengths team player problem solving contact",
+  "category": "Data Science",
+  "confidence": 0.4225,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.3619,
+   "cosine": 0.2222,
+   "skill_match": 0.5714,
+   "matched_skills": [
+    "machine learning",
+    "matplotlib",
+    "nlp",
+    "pandas"
+   ],
+   "missing_skills": [
+    "jupyter",
+    "regression",
+    "sql"
+   ]
+  }
+ },
+ {
+  "text": "DevOps Engineer with 2 years of experience. Skills: design patterns, grafana, terraform, hibernate, kubernetes, helm, git. Experience: Designed microservices using spring boot and kafka. Migrated workloads to kubernetes clusters with helm charts. Built ci cd pipelines in jenkins for dozens of services. Reduced cloud costs by right sizing instances. Education: BBA. Strengths: leadership, team player. Contact: candidate498@mail.com",
+  "clean": "devops engineer skills design patterns grafana terraform hibernate kubernetes helm git designed microservices spring boot kafka migrated workloads kubernetes clusters helm charts built ci cd pipelines jenkins dozens services reduced cloud costs right sizing instances education bba strengths leadership team player contact",
+  "category": "DevOps Engineer",
+  "confidence": 0.9806,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.0148,
+   "cosine": 0.0246,
+   "skill_match": 0.0,
+   "matched_skills": [],
+   "missing_skills": [
+    "jupyter",
+    "machine learning",
+    "matplotlib",
+    "nlp",
+    "pandas",
+    "regression",
+    "sql"
+   ]
+  }
+ },
+ {
+  "text": "BA Lead with 2 years of experience. Skills: kafka, spring boot, jdbc, gap analysis, process mapping, documentation, stakeholder management, power bi, pandas, microservices, requirements gathering, pytorch, target achievement, user stories. Experience: Acted as liaison between business teams and developers. Built power bi dashboards for leadership reporting. Created process maps and gap analysis for system upgrades. Education: B.Com. Strengths: leadership, problem solving. Contact: candidate247@mail.com",
+  "clean": "ba lead skills kafka spring boot jdbc gap analysis process mapping documentation stakeholder management power bi pandas microservices requirements gathering pytorch target achievement user stories acted liaison business teams developers built power bi dashboards leadership reporting created process maps gap analysis system upgrades education com strengths leadership problem solving contact",
+  "category": "Business Analyst",
+  "confidence": 0.9801,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.0874,
+   "cosine": 0.0504,
+   "skill_match": 0.1429,
+   "matched_skills": [
+    "pandas"
+   ],
+   "missing_skills": [
+    "jupyter",
+    "machine learning",
+    "matplotlib",
+    "nlp",
+    "regression",
+    "sql"
+   ]
+  }
+ },
+ {
+  "text": "Functional Consultant with 1 years of experience. Skills: jupyter, tableau, uml, ci cd, matplotlib, jira, sql, stakeholder management. Experience: Presented product demos to prospective clients. Built power bi dashboards for leadership reporting. Education: B.Com. Strengths: attention to detail, time management. Contact: candidate875@mail.com",
+  "clean": "functional consultant skills jupyter tableau uml ci cd matplotlib jira sql stakeholder management presented product demos prospective clients built power bi dashboards leadership reporting education com strengths attention detail time management contact",
+  "category": "Business Analyst",
+  "confidence": 0.7835,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.2628,
+   "cosine": 0.1522,
+   "skill_match": 0.4286,
+   "matched_skills": [
+    "jupyter",
+    "matplotlib",
+    "sql"
+   ],
+   "missing_skills": [
+    "machine learning",
+    "nlp",
+    "pandas",
+    "regression"
+   ]
+  }
+ },
+ {
+  "text": "SDET with 8 years of experience. Skills: api testing, manual testing, azure, nlp, automation testing, testng, postman, design patterns, git, test cases, jupyter, hibernate, feature engineering, jenkins, regression, docker, jpa. Experience: Ran load tests with jmeter before major releases. Wrote and executed test cases for web and mobile applications. Built selenium automation frameworks with testng. Developed responsive single page applications in react. Education: MBA. Strengths: attention to detail, time management. Contact: candidate508@mail.com",
+  "clean": "sdet skills api testing manual testing azure nlp automation testing testng postman design patterns git test cases jupyter hibernate feature engineering jenkins regression docker jpa ran load tests jmeter major releases wrote executed test cases web mobile applications built selenium automation frameworks testng developed responsive single page applications react education mba strengths attention detail time management contact",
+  "category": "Testing",
+  "confidence": 0.9168,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.2334,
+   "cosine": 0.1033,
+   "skill_match": 0.4286,
+   "matched_skills": [
+    "jupyter",
+    "nlp",
+    "regression"
+   ],
+   "missing_skills": [
+    "machine learning",
+    "matplotlib",
+    "pandas",
+    "sql"
+   ]
+  }
+ },
+ {
+  "text": "Talent Acquisition Specialist with 5 years of experience. Skills: interviewing, b2b sales, account management, negotiation, data analysis, process mapping, client relationship, presentation, target achievement, onboarding. Experience: Negotiated contracts with enterprise customers. Exceeded quarterly sales targets through b2b lead generation. Managed key client accounts and renewals in salesforce. Education: M.Tech. Strengths: problem solving, attention to detail. Contact: candidate663@mail.com",
+  "clean": "talent acquisition specialist skills interviewing b2b sales account management negotiation data analysis process mapping client relationship presentation target achievement onboarding negotiated contracts enterprise customers exceeded quarterly sales targets b2b lead generation managed key client accounts renewals salesforce education tech strengths problem solving attention detail contact",
+  "category": "Sales",
+  "confidence": 0.9634,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.0,
+   "cosine": 0.0,
+   "skill_match": 0.0,
+   "matched_skills": [],
+   "missing_skills": [
+    "jupyter",
+    "machine learning",
+    "matplotlib",
+    "nlp",
+    "pandas",
+    "regression",
+    "sql"
+   ]
+  }
+ },
+ {
+  "text": "Test Automation Engineer with 11 years of experience. Skills: regression, bug tracking, deep learning, cucumber, performance testing, agile, tailwind, selenium, postman, jupyter. Experience: Logged and tracked defects in jira through the release cycle. Education: B.E. in Mechanical Engineering. Strengths: team player, problem solving. Contact: candidate763@mail.com",
+  "clean": "test automation engineer skills regression bug tracking deep learning cucumber performance testing agile tailwind selenium postman jupyter logged tracked defects jira release cycle education mechanical engineering strengths team player problem solving contact",
+  "category": "Testing",
+  "confidence": 0.8975,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.1907,
+   "cosine": 0.1274,
+   "skill_match": 0.2857,
+   "matched_skills": [
+    "jupyter",
+    "regression"
+   ],
+   "missing_skills": [
+    "machine learning",
+    "matplotlib",
+    "nlp",
+    "pandas",
+    "sql"
+   ]
+  }
+ },
+ {
+  "text": "Test Automation Engineer with 7 years of experience. Skills: jira, hibernate, agile, cucumber, performance testing, manual testing, jmeter, junit, test cases, express. Experience: Logged and tracked defects in jira through the release cycle. Wrote and executed test cases for web and mobile applications. Wrote junit tests to keep code coverage above eighty percent. Performed api testing with postman and rest assured. Education: B.Tech in Computer Science. Strengths: time management, attention to detail. Contact: candidate707@mail.com",
+  "clean": "test automation engineer skills jira hibernate agile cucumber performance testing manual testing jmeter junit test cases express logged tracked defects jira release cycle wrote executed test cases web mobile applications wrote junit tests keep code coverage eighty percent performed api testing postman rest assured education tech computer science strengths time management attention detail contact",
+  "category": "Testing",
+  "confidence": 0.952,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.006,
+   "cosine": 0.01,
+   "skill_match": 0.0,
+   "matched_skills": [],
+   "missing_skills": [
+    "jupyter",
+    "machine learning",
+    "matplotlib",
+    "nlp",
+    "pandas",
+    "regression",
+    "sql"
+   ]
+  }
+ },
+ {
+  "text": "Web Developer with 9 years of experience. Skills: oop, next, javascript, rest api, css, jest. Experience: Collaborated with designers to implement pixel perfect user interfaces. Wrote junit tests to keep code coverage above eighty percent. Improved page load time through code splitting and caching. Education: BBA. Strengths: problem solving, leadership. Contact: candidate601@mail.com",
+  "clean": "web developer skills oop next javascript rest api css jest collaborated designers implement pixel perfect user interfaces wrote junit tests keep code coverage eighty percent improved page load time code splitting caching education bba strengths problem solving leadership contact",
+  "category": "Web Development",
+  "confidence": 0.9185,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.0,
+   "cosine": 0.0,
+   "skill_match": 0.0,
+   "matched_skills": [],
+   "missing_skills": [
+    "jupyter",
+    "machine learning",
+    "matplotlib",
+    "nlp",
+    "pandas",
+    "regression",
+    "sql"
+   ]
+  }
+ },
+ {
+  "text": "Product Analyst with 0 years of experience. Skills: gap analysis, data analysis, machine learning, excel, crm, jira, requirements gathering, feature engineering, account management. Experience: Acted as liaison between business teams and developers. Gathered business requirements from stakeholders and wrote user stories. Education: B.Sc. Strengths: attention to detail, time management. Contact: candidate107@mail.com",
+  "clean": "product analyst skills gap analysis data analysis machine learning excel crm jira requirements gathering feature engineering account management acted liaison business teams developers gathered business requirements stakeholders wrote user stories education sc strengths attention detail time management contact",
+  "category": "Business Analyst",
+  "confidence": 0.9553,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.0964,
+   "cosine": 0.0654,
+   "skill_match": 0.1429,
+   "matched_skills": [
+    "machine learning"
+   ],
+   "missing_skills": [
+    "jupyter",
+    "matplotlib",
+    "nlp",
+    "pandas",
+    "regression",
+    "sql"
+   ]
+  }
+ },
+ {
+  "text": "Design Engineer with 4 years of experience. Skills: manufacturing, agile, quality control, autocad, lean manufacturing. Experience: Led root cause analysis for quality control issues. Ran finite element analysis in ansys to validate designs. Presented product demos to prospective clients. Education: B.Tech in Computer Science. Strengths: problem solving, leadership. Contact: candidate133@mail.com",
+  "clean": "design engineer skills manufacturing agile quality control autocad lean manufacturing led root cause analysis quality control issues ran finite element analysis ansys validate designs presented product demos prospective clients education tech computer science strengths problem solving leadership contact",
+  "category": "Mechanical Engineer",
+  "confidence": 0.9318,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.0067,
+   "cosine": 0.0111,
+   "skill_match": 0.0,
+   "matched_skills": [],
+   "missing_skills": [
+    "jupyter",
+    "machine learning",
+    "matplotlib",
+    "nlp",
+    "pandas",
+    "regression",
+    "sql"
+   ]
+  }
+ },
+ {
+  "text": "J2EE Developer with 4 years of experience. Skills: docker, hibernate, next, jmeter, oop, jdbc, vite, junit, monitoring, jest, bash, java. Experience: Applied object oriented design patterns to refactor legacy modules. Designed microservices using spring boot and kafka. Maintained enterprise j2ee applications deployed on tomcat. Education: B.E. in Information Technology. Strengths: time management, problem solving. Contact: candidate480@mail.com",
+  "clean": "j2ee developer skills docker hibernate next jmeter oop jdbc vite junit monitoring jest bash java applied object oriented design patterns refactor legacy modules designed microservices spring boot kafka maintained enterprise j2ee applications deployed tomcat education information technology strengths time management problem solving contact",
+  "category": "Java Developer",
+  "confidence": 0.953,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.0,
+   "cosine": 0.0,
+   "skill_match": 0.0,
+   "matched_skills": [],
+   "missing_skills": [
+    "jupyter",
+    "machine learning",
+    "matplotlib",
+    "nlp",
+    "pandas",
+    "regression",
+    "sql"
+   ]
+  }
+ },
+ {
+  "text": "Mechanical Engineer with 10 years of experience. Skills: documentation, salesforce, lean manufacturing, negotiation, thermodynamics, gd&t, quality control, sql, excel, data analysis. Experience: Ran finite element analysis in ansys to validate designs. Improved production line efficiency with lean manufacturing. Led root cause analysis for quality control issues. Education: B.E. in Mechanical Engineering. Strengths: problem solving, time management. Contact: candidate504@mail.com",
+  "clean": "mechanical engineer skills documentation salesforce lean manufacturing negotiation thermodynamics gdt quality control sql excel data analysis ran finite element analysis ansys validate designs improved production line efficiency lean manufacturing led root cause analysis quality control issues education mechanical engineering strengths problem solving time management contact",
+  "category": "Mechanical Engineer",
+  "confidence": 0.9795,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.0767,
+   "cosine": 0.0325,
+   "skill_match": 0.1429,
+   "matched_skills": [
+    "sql"
+   ],
+   "missing_skills": [
+    "jupyter",
+    "machine learning",
+    "matplotlib",
+    "nlp",
+    "pandas",
+    "regression"
+   ]
+  }
+ },
+ {
+  "text": "Full stack developer with 3 years of experience building React and Node.js apps.\nSkills: JavaScript, TypeScript, React, Redux, Node.js, Express, MongoDB, REST API, Jest, Git.\nBuilt a job portal with resume upload and recruiter dashboards.",
+  "clean": "full stack developer building react node apps skills javascript typescript react redux node express mongodb rest api jest git built job portal resume upload recruiter dashboards",
+  "category": "Web Development",
+  "confidence": 0.7606,
+  "match_job": "We are hiring a Machine Learning Engineer. Required skills: jupyter, regression, sql, nlp, matplotlib, pandas. Responsibilities: built predictive models to forecast customer churn. trained classification models with cross validation and hyperparameter tuning. 6+ years of experience preferred.",
+  "match": {
+   "score": 0.0118,
+   "cosine": 0.0196,
+   "skill_match": 0.0,
+   "matched_skills": [],
+   "missing_skills": [
+    "jupyter",
+    "machine learning",
+    "matplotlib",
+    "nlp",
+    "pandas",
+    "regression",
+    "sql"
+   ]
+  }
+ }
+]
